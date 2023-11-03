@@ -1,3 +1,7 @@
+# Prelude
+
+- 21
+
 # Victory points
 
 - 5
@@ -43,7 +47,7 @@
 - Energy
   - 7
 - Heat
-  - 5
+  - 5 (6)
 - animals
 - microbes
 

@@ -1,0 +1,113 @@
+# 物品 Item
+
+- S
+  - 空投物资 Airdrop
+  - 狗 Dog
+  - 热气球 Hot Air Balloon
+  - 十字镐 Pickaxe
+  - 粗略地图 Rough Map
+- A+
+  - 飞机 Aeroplane
+  - Bear Trap
+  - 双筒望远镜 Binoculars
+  - 精密指南针 Precision Compass
+  - Whip
+- A
+  - 汽车 Automobile
+  - 弓箭 Bow and Arrows
+  - Brush
+  - 信鸽 Carrier Pigeon
+  - 水瓶 Flask
+  - 淘金盘 Gold Pan
+  - Hat
+  - Journal
+  - 蒸汽机船 Steam Boat
+  - 帐篷 Tent
+- B
+  - 马 Horse
+  - 提灯 Lantern
+  - 绳索 Rope
+  - 结实的靴子 Sturdy Boots
+  - 经纬仪 Theodolite
+  - 泥铲 Trowel
+  - 手表 Watch
+- C
+  - 军刀 Army Knife
+  - Chronometer
+  - 大旅行包 Large Backpack
+  - 大砍刀 Machete
+  - 鸵鸟 Ostrich
+  - 驮运驴子 Pack Donkey
+  - 鹦鹉 Parrot
+  - Sea Turtle
+- D
+  - Axe
+  - Fishing Rod
+  - Grappling Hook
+  - 左轮手枪 Revolver
+  - 火把 Torch
+
+# Artifact
+
+- S
+  - 守护者的陶笛 Guardian's Ocarina
+  - 指路头骨 Guiding Skull
+  - 指路石 Guiding Stone
+  - Star Charts
+- A+
+  - Ancient Wine
+  - 装饰号角 Decorated Horn
+  - 铭刻之刃 Inscribed Blade
+  - Pathfinder's Staff
+  - 日晷 Sundial
+- A
+  - Coconut Flask
+  - Hunting Arrows
+  - 阿拉·阿努神像 Idol of Ara-Anu
+  - 亡者符文 Runes of the Dead
+  - 神圣乐鼓 Sacred Drum
+  - 石钥匙 Stone Key
+  - 作战棍 War Club
+- B
+  - 仪式摇铃 Ceremonial Rattle
+  - Mortar
+  - 探路者的凉鞋 Pathfinder's Sandals
+  - 虎爪发簪 Tigerclaw Hairpin
+  - 商人的钱币 Trader's Coins
+  - Trader's Scales
+- C
+  - 仪式匕首 Ritual Dagger
+  - 巨蛇神像 Serpent Idol
+  - 巨蛇的黄金 Serpent's Gold
+  - 石罐 Stone Jar
+  - 作战面具 War Mask
+- D
+  - 净化坩埚 Cleansing Cauldron
+  - 水晶耳环 Crystal Earring
+  - 守护者的王冠 Guardian's Crown
+  - 猴子挂坠 Monkey Medallion
+  - 黑曜石耳环 Obsidian Earring
+  - 华丽之锤 Ornate Hammer
+  - Passage Shell
+  - 藏宝箱 Treasure Chest
+
+# Assistant
+
+- S
+  - Coin
+- A+
+  - Coin for Arrow
+  - Compass
+  - Foot for Arrow
+- A
+  - Boat
+  - Car
+  - Upgrade
+- B
+  - Discount
+  - Tablet
+- C
+  - Airplane
+- D
+  - Draw
+  - Exile
