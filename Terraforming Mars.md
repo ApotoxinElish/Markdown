@@ -4,7 +4,7 @@
 
 # Victory points
 
-- 5
+- 6
 
 # Parameters
 
@@ -22,13 +22,14 @@
 - The MegaCredit
   - 1
 - Steel
-  - 2
+  - 1.75
 - Titanium
-  - 3
+  - 2.75
 - Plants
   - 2
 - Energy
 - Heat
+  - 1.75
 - animals
 - microbes
 - Cards
@@ -43,11 +44,11 @@
 - Titanium
   - 10
 - Plants
-  - 9
+  - 12
 - Energy
   - 7
 - Heat
-  - 5 (6)
+  - 5.25
 - animals
 - microbes
 
@@ -59,6 +60,7 @@
 - Science
   - 2
 - Jovian
+  - 6
 - Earth
   - 1
 - Plant
