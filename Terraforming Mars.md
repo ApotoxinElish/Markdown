@@ -36,8 +36,9 @@
 - Titanium
   - 2.75
 - Plants
-  - 2.5
+  - 2.875
 - Energy
+  - 3
 - Heat
   - 1.75
 - Animal
